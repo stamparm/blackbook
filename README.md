@@ -165,7 +165,6 @@ List
 |91ruitue.com|formbook|2018-10-29|
 |biznetvigator.ml|pony|2018-10-29|
 |bingobongo.xyz|azorult|2018-10-29|
-|185.222.56.243:8081|pony|2018-10-29|
 |corelis.group|lokibot|2018-10-29|
 |zenshinonline.ru|lokibot|2018-10-29|
 |nadidetadllar.com|formbook|2018-10-29|
