@@ -10,7 +10,6 @@ List
 ----
 |Domain|Malware|Date added|
 |:---|:---:|:--:|
-|dresson1.com|lokibot|2018-10-29|
 |supportprotect.pw|rarog|2018-10-29|
 |thegims.com|pony|2018-10-29|
 |deeprootministry.org|pony|2018-10-29|
