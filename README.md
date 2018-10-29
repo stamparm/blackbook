@@ -6,7 +6,7 @@ About
 ----
 **blackbook** is a list of malicious domains created as part of the periodic automated heuristic check of domains from [CyberCrime](https://cybercrime-tracker.net/) in search of those that are/were malware **dedicated** (e.g. C&C).
 
-Domains
+List
 ----
 |Domain|Malware|Date added|
 |:---|:---:|:--:|
