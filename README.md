@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/8faUN3S.jpg)
+![Logo](https://i.imgur.com/MvnAIlp.jpg)
 
 [![License](https://img.shields.io/badge/license-Public_domain-red.svg)](https://wiki.creativecommons.org/wiki/Public_domain)
 
