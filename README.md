@@ -4,6 +4,8 @@
 
 **blackbook** is a historical (black)list of malicious domains created as part of the hourly automated heuristic check (i.e. WHOIS, HTTP, etc.) of newly reported entries from public lists of malicious URLs (e.g. [CyberCrime](https://cybercrime-tracker.net/) and [URLhaus](https://urlhaus.abuse.ch/)) in search of those that are/were malware **dedicated** (e.g. C&C) - thus, excluding compromised sites. It is supposed to be used for detection of malware beaconing infected clients by inspection of associated DNS traffic with significantly reduced number of false-positives.
 
+![Example](https://i.imgur.com/FN8r3um.png)
+
 Up-to-date list of domains can be found [here](blackbook.csv).
 
 Note: If you just need a (newline delimited) domain list you can run:
