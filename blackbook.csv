@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+sh2017.chancemkt.com,emotet,2018-11-05,URLhaus
+tlextreme.com,emotet,2018-11-05,URLhaus
 textilekey.com,netwire,2018-11-05,URLhaus
 politiaromana.redirectme.net,njrat,2018-11-05,ScumBots
 blendzy.duckdns.org,njrat,2018-11-05,ScumBots
