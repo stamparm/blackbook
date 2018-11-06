@@ -1,4 +1,7 @@
 Domain,Malware,Date added,Source
+sastudio.co,emotet,2018-11-06,URLhaus
+aldo.jplms.com.au,emotet,2018-11-06,URLhaus
+luizinhoxd.duckdns.org,njrat,2018-11-06,ScumBots
 blessedgui.desi,lokibot,2018-11-06,URLhaus
 formypimples.com,remcos,2018-11-06,URLhaus
 sleepybearcreations.com,emotet,2018-11-06,URLhaus
