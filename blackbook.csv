@@ -1,4 +1,8 @@
 Domain,Malware,Date added,Source
+royalsecurityinc.com,emotet,2018-11-06,URLhaus
+staging.bridgecode.co.uk,emotet,2018-11-06,URLhaus
+1412studiodm.com,emotet,2018-11-06,URLhaus
+sicfms.com,emotet,2018-11-06,URLhaus
 mrdcontact.com,remcos,2018-11-06,URLhaus
 njrattestone.ddns.net,njrat,2018-11-06,ScumBots
 avo23.ddns.net,njrat,2018-11-06,ScumBots
