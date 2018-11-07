@@ -1,4 +1,12 @@
 Domain,Malware,Date added,Source
+relogiostore.com,emotet,2018-11-07,URLhaus
+dol.dance,emotet,2018-11-07,URLhaus
+tempodecelebrar.org.br,heodo,2018-11-07,URLhaus
+jaonangnoy.com,heodo,2018-11-07,URLhaus
+fromjoy.fr,heodo,2018-11-07,URLhaus
+gurkerwirt.at,heodo,2018-11-07,URLhaus
+anyes.com.cn,heodo,2018-11-07,URLhaus
+numidiatalent.com,heodo,2018-11-07,URLhaus
 patoimpex.com,nanocore,2018-11-07,URLhaus
 itachituff.hopto.org,njrat,2018-11-06,ScumBots
 ashtangafor.life,emotet,2018-11-06,URLhaus
