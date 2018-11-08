@@ -1,4 +1,10 @@
 Domain,Malware,Date added,Source
+elom.su,emotet,2018-11-08,URLhaus
+ipuclascolinas.com,emotet,2018-11-08,URLhaus
+esinseyrek.com,heodo,2018-11-08,URLhaus
+bebechas.com,heodo,2018-11-08,URLhaus
+aonespot.com,heodo,2018-11-08,URLhaus
+canguakho.net,heodo,2018-11-08,URLhaus
 avprotect.club,nanocore,2018-11-08,URLhaus
 bdt.org.br,emotet,2018-11-08,URLhaus
 smilerryan.com,darkcomet,2018-11-08,URLhaus
