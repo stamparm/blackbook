@@ -1,4 +1,7 @@
 Domain,Malware,Date added,Source
+hire-van.com,emotet,2018-11-09,URLhaus
+coronatec.com.br,emotet,2018-11-09,URLhaus
+rshack.ddns.net,njrat,2018-11-09,ScumBots
 ers-technologies.com,heodo,2018-11-09,URLhaus
 aulbros.com,emotet,2018-11-09,URLhaus
 pistola404.duckdns.org,njrat,2018-11-09,ScumBots
