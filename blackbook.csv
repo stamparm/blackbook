@@ -1,4 +1,10 @@
 Domain,Malware,Date added,Source
+medresearchgroup.com,emotet,2018-11-13,URLhaus
+litmuseum.kz,emotet,2018-11-13,URLhaus
+akucakep.com,emotet,2018-11-13,URLhaus
+uch.my.to,lokibot,2018-11-13,URLhaus
+stroy.th12dev.com,troldesh,2018-11-13,URLhaus
+file.buttsdki.ca,ursnif,2018-11-13,URLhaus
 morghabtour.com,emotet,2018-11-13,URLhaus
 locas1.ddns.net,njrat,2018-11-13,ScumBots
 gapple39.ru,emotet,2018-11-13,URLhaus
