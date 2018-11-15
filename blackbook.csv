@@ -1,4 +1,7 @@
 Domain,Malware,Date added,Source
+help-roro.gq,azorult,2018-11-15,URLhaus
+hermes.travel.pl,azorult,2018-11-15,URLhaus
+infozine.aeg-buchholz.de,emotet,2018-11-15,URLhaus
 alippo.ddns.net,njrat,2018-11-15,ScumBots
 kristiansund-gravstein.no,emotet,2018-11-15,URLhaus
 jimmysbait.haroocreative.com,emotet,2018-11-15,URLhaus
