@@ -1,4 +1,9 @@
 Domain,Malware,Date added,Source
+aavasolution.com,emotet,2018-11-15,URLhaus
+dmdream.info,emotet,2018-11-15,URLhaus
+blacharhost.com,emotet,2018-11-15,URLhaus
+thenewerabeauty.com,emotet,2018-11-15,URLhaus
+ulukantasarim.com,emotet,2018-11-15,URLhaus
 docusign.delivery,trickbot,2018-11-15,URLhaus
 help-roro.gq,azorult,2018-11-15,URLhaus
 hermes.travel.pl,azorult,2018-11-15,URLhaus
