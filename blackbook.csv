@@ -1,4 +1,5 @@
 Domain,Malware,Date added,Source
+docusign.delivery,trickbot,2018-11-15,URLhaus
 help-roro.gq,azorult,2018-11-15,URLhaus
 hermes.travel.pl,azorult,2018-11-15,URLhaus
 infozine.aeg-buchholz.de,emotet,2018-11-15,URLhaus
