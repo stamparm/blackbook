@@ -1,4 +1,7 @@
 Domain,Malware,Date added,Source
+lovelysmiley.com,emotet,2018-11-20,URLhaus
+debt-conflict.ru,emotet,2018-11-20,URLhaus
+standart-uk.ru,emotet,2018-11-20,URLhaus
 xn--b1agpzh0e.xn--80adxhks,emotet,2018-11-20,URLhaus
 astramedvil.ru,emotet,2018-11-20,URLhaus
 exhaustedboy.myftp.biz,njrat,2018-11-20,ScumBots
