@@ -1,4 +1,7 @@
 Domain,Malware,Date added,Source
+emrsesp[.]com,emotet,2018-11-22,URLhaus
+pibuilding[.]com,emotet,2018-11-22,URLhaus
+clock.noixun[.]com,emotet,2018-11-22,URLhaus
 elmamlka.linkpc.net,njrat,2018-11-22,ScumBots
 inaczasie.pl,emotet,2018-11-22,URLhaus
 emrsesp.com,emotet,2018-11-22,URLhaus
