@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+stroim-dom45.ru,emotet,2018-11-23,URLhaus
+dobi.nl,emotet,2018-11-23,URLhaus
 deepxstate.org,danabot,2018-11-23,URLhaus
 smartxstate.org,danabot,2018-11-23,URLhaus
 microsoft-store.sytes.net,njrat,2018-11-23,ScumBots
