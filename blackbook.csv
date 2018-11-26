@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+ecampus.mk,emotet,2018-11-26,URLhaus
+erouaelmgp.zapto.org,njrat,2018-11-26,ScumBots
 destinysbeautydestination.com,emotet,2018-11-26,URLhaus
 xn----8sbabrd9ajz.xn--p1ai,emotet,2018-11-26,URLhaus
 na01.safelinks.protection.outlook.com,emotet,2018-11-26,URLhaus
