@@ -1,4 +1,9 @@
 Domain,Malware,Date added,Source
+microsoftservice.dynamic-dns.net,remcos,2018-11-28,URLhaus
+haganelectronics.rubickdesigns.com,emotet,2018-11-28,URLhaus
+mfpvision.com,emotet,2018-11-28,URLhaus
+vincity-oceanpark-gialam.com,troldesh,2018-11-28,URLhaus
+spyhandan.ddns.net,njrat,2018-11-28,ScumBots
 arhomus.com,emotet,2018-11-28,URLhaus
 serotest.com,sload,2018-11-28,URLhaus
 arkgaterp.com,sload,2018-11-28,URLhaus
