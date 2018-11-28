@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+izsiztiroidektomi.com,emotet,2018-11-29,URLhaus
+turulawfirm.com,emotet,2018-11-29,URLhaus
 jelimold.com,lokibot,2018-11-28,Benkow
 sahakyanshn.com,lokibot,2018-11-28,Benkow
 microsoftservice.dynamic-dns.net,remcos,2018-11-28,URLhaus
