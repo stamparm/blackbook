@@ -1,4 +1,8 @@
 Domain,Malware,Date added,Source
+serotest.com,sload,2018-11-28,URLhaus
+arkgaterp.com,sload,2018-11-28,URLhaus
+tahoefiredancers.com,sload,2018-11-28,URLhaus
+sicknessdk.duckdns.org,nanocore,2018-11-28,ScumBots
 profstroyremont.com,emotet,2018-11-28,URLhaus
 holywater150.ddns.net,njrat,2018-11-28,ScumBots
 egtest.tk-studio.ru,emotet,2018-11-28,URLhaus
