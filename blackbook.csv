@@ -1,4 +1,8 @@
 Domain,Malware,Date added,Source
+racorp.com.br,emotet,2018-11-29,URLhaus
+kolastav.sk,retefe,2018-11-29,URLhaus
+vyroba-plotov-bran.sk,retefe,2018-11-29,URLhaus
+pieliedie.ga,azorult,2018-11-29,Benkow
 update-prog.com,hawkeye,2018-11-29,URLhaus
 richkidinvestment.biz,lokibot,2018-11-29,CyberCrime
 modcloudserver.eu,lokibot,2018-11-29,CyberCrime
