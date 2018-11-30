@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+bemsnet.com,emotet,2018-11-30,URLhaus
+oxyvin.com,emotet,2018-11-30,URLhaus
 dichvuvesinhcongnghiep.top,emotet,2018-11-30,URLhaus
 wrk44.ddns.net,njrat,2018-11-30,ScumBots
 rmdpolymers.com,emotet,2018-11-30,URLhaus
