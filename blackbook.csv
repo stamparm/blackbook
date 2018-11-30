@@ -1,4 +1,9 @@
 Domain,Malware,Date added,Source
+iforgiveyouanitabryant.com,emotet,2018-11-30,URLhaus
+opusjobapp.com,emotet,2018-11-30,URLhaus
+questerind.com,emotet,2018-11-30,URLhaus
+ecosfestival.com,emotet,2018-11-30,URLhaus
+twiist.ddns.net,njrat,2018-11-30,ScumBots
 yourfunapps.ga,troldesh,2018-11-30,URLhaus
 embalagememgeral.com.br,nanocore,2018-11-30,URLhaus
 yohtkc.ddns.net,njrat,2018-11-30,ScumBots
