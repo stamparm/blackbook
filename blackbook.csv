@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+dorians-geo.ru,emotet,2018-12-01,URLhaus
+potens.ru,emotet,2018-12-01,URLhaus
 agentfalco.xyz,tesla,2018-12-01,URLhaus
 sunroofeses.info,azorult,2018-12-01,URLhaus
 chotels.ga,pony,2018-12-01,CyberCrime
