@@ -1,4 +1,8 @@
 Domain,Malware,Date added,Source
+weldjet.com,formbook,2018-12-03,URLhaus
+yancommato.com,ursnif,2018-12-03,URLhaus
+egger.nl,emotet,2018-12-03,URLhaus
+givemoney.ddns.net,njrat,2018-12-03,ScumBots
 cubino.it,retefe,2018-12-03,URLhaus
 agilityrt.website,gozi,2018-12-03,URLhaus
 outlookupdate.dynamicdns.org.uk,remcos,2018-12-03,URLhaus
