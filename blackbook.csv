@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+khutt.org,emotet,2018-12-08,URLhaus
+mlhglobal.club,netwire,2018-12-08,URLhaus
 fortalecergroup.com.br,gozi,2018-12-08,URLhaus
 test.stylevesti.ru,emotet,2018-12-08,URLhaus
 pierret.ml,lokibot,2018-12-08,CyberCrime
