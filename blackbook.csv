@@ -1,4 +1,17 @@
 Domain,Malware,Date added,Source
+mygidas.lt,emotet,2018-12-12,URLhaus
+shophousekhaisontowncity.com,emotet,2018-12-12,URLhaus
+marc.optimroute.com,emotet,2018-12-12,URLhaus
+zoom-machinery.com,emotet,2018-12-12,URLhaus
+abeelepach.com,ursnif,2018-12-12,URLhaus
+kicensinfa.com,ursnif,2018-12-12,URLhaus
+shreesaasthatextiles.com,emotet,2018-12-12,URLhaus
+shopclicksave.net,emotet,2018-12-12,URLhaus
+nasuha.shariainstitute.com,emotet,2018-12-12,URLhaus
+meunasahmee.id,emotet,2018-12-12,URLhaus
+amerkad19.ddns.net,njrat,2018-12-12,ScumBots
+fj3a.ddns.net,njrat,2018-12-12,ScumBots
+gigatelibertadores.ddns.net,njrat,2018-12-12,ScumBots
 baml-secure.com,trickbot,2018-12-11,URLhaus
 cvetisbazi.ru,emotet,2018-12-11,URLhaus
 donnebella.com,emotet,2018-12-11,URLhaus
