@@ -1,4 +1,16 @@
 Domain,Malware,Date added,Source
+apkupdatessl.co,xtrat,2018-12-13,URLhaus
+laktevit.ru,emotet,2018-12-13,URLhaus
+valkindead.ru,azorult,2018-12-13,URLhaus
+srimanindustries.com,emotet,2018-12-13,URLhaus
+plintakids.com,emotet,2018-12-13,URLhaus
+craftwormcreations.com,emotet,2018-12-13,URLhaus
+surewaytoheaven.org,emotet,2018-12-13,URLhaus
+product-kick.com,troldesh,2018-12-13,URLhaus
+happydiwalismsmessages.in,troldesh,2018-12-13,URLhaus
+occn-asecna.org,troldesh,2018-12-13,URLhaus
+theodoibaochi.com,troldesh,2018-12-13,URLhaus
+a.uchi.moe,azorult,2018-12-13,URLhaus
 gracebytry.tk,lokibot,2018-12-13,CyberCrime
 ms22-hinet.tk,azorult,2018-12-13,CyberCrime
 sbfurniture-bd.com,emotet,2018-12-13,URLhaus
