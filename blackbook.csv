@@ -1,4 +1,15 @@
 Domain,Malware,Date added,Source
+al-hadin.com,pony,2018-12-17,CyberCrime
+pony3.microsoftups.com,pony,2018-12-17,CyberCrime
+pony2.microsoftups.com,pony,2018-12-17,CyberCrime
+pony1.microsoftups.com,pony,2018-12-17,CyberCrime
+mcjm.me,hawkeye,2018-12-17,URLhaus
+magdailha.com.br,emotet,2018-12-17,URLhaus
+frilvam.eu,emotet,2018-12-17,URLhaus
+digitalgit.in,hawkeye,2018-12-17,URLhaus
+questingpanda.com,formbook,2018-12-17,URLhaus
+tong-honq.com,azorult,2018-12-17,Benkow
+chansfound.com,acrux,2018-12-17,Benkow
 zdone.site,formbook,2018-12-17,URLhaus
 venkindead.zone,azorult,2018-12-17,URLhaus
 c.doko.moe,formbook,2018-12-17,URLhaus
