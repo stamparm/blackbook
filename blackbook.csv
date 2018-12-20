@@ -1,4 +1,14 @@
 Domain,Malware,Date added,Source
+lifecycleeng.com,emotet,2018-12-20,URLhaus
+designplatform.in,emotet,2018-12-20,URLhaus
+vocaciondefuturo.cl,emotet,2018-12-20,URLhaus
+nexpltd.com,emotet,2018-12-20,URLhaus
+almahsiri.ps,emotet,2018-12-20,URLhaus
+home.ac.ug,azorult,2018-12-20,Benkow
+dpcdev.ac.ug,kpot,2018-12-20,Benkow
+aidosmarketcoins.org,azorult,2018-12-20,Benkow
+brotherflltration.com,lokibot,2018-12-20,Benkow
+qwertasd.ru,godzillaloader,2018-12-20,Benkow
 sulminaslaticinios.com.br,emotet,2018-12-20,URLhaus
 smartlync.pk,emotet,2018-12-20,URLhaus
 blacknred.ma,emotet,2018-12-20,URLhaus
