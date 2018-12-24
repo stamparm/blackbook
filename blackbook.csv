@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+secureaccess.ru,azorult,2018-12-24,URLhaus
+exotechfm.com.au,emotet,2018-12-24,URLhaus
 draven.ru,litehttp,2018-12-24,CyberCrime
 winlauerm.duckdns.org,njrat,2018-12-24,ScumBots
 bowlinetestcracker.hopto.org,infinity,2018-12-24,ScumBots
