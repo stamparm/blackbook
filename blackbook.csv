@@ -1,4 +1,9 @@
 Domain,Malware,Date added,Source
+exmops.ml,azorult,2019-01-11,CyberCrime
+hmirnport.com,nanocore,2019-01-11,URLhaus
+micosoftoutlook.dns04.com,remcos,2019-01-11,URLhaus
+sere.website,diamondfox,2019-01-11,ScumBots
+eduman.site,diamondfox,2019-01-11,ScumBots
 srijonfoundation.org,pony,2019-01-10,CyberCrime
 rowv.us,azorult,2019-01-10,CyberCrime
 cnicaliasi.com,gozi,2019-01-10,URLhaus
