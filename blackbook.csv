@@ -1,4 +1,12 @@
 Domain,Malware,Date added,Source
+take12.nl,emotet,2019-01-18,URLhaus
+ganapatihelp.com,troldesh,2019-01-18,URLhaus
+jamdanicollection.com,troldesh,2019-01-18,URLhaus
+livingdivineprinciple.org,emotet,2019-01-18,URLhaus
+bouresmau-gsf.com,emotet,2019-01-18,URLhaus
+dowseservices.com,emotet,2019-01-18,URLhaus
+holinamet.us,lokibot,2019-01-18,Benkow
+blablabla.ac.ug,kpot,2019-01-18,Benkow
 khsecurity.sg,emotet,2019-01-18,URLhaus
 pkmsolutions.com.my,emotet,2019-01-18,URLhaus
 befounddigitalmarketing.com,emotet,2019-01-18,URLhaus
