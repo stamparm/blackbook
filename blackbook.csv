@@ -1,4 +1,8 @@
 Domain,Malware,Date added,Source
+samix-num.com,emotet,2019-01-19,URLhaus
+partycloud.nl,emotet,2019-01-19,URLhaus
+zonnestroomtilburg.nl,emotet,2019-01-19,URLhaus
+digital.eudoratrading.com,emotet,2019-01-19,URLhaus
 tnr-vietnam.net,emotet,2019-01-19,URLhaus
 med.siam.edu,emotet,2019-01-19,URLhaus
 paradiseguests.com,emotet,2019-01-19,URLhaus
