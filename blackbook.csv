@@ -1,4 +1,15 @@
 Domain,Malware,Date added,Source
+parga360.com,troldesh,2019-01-22,URLhaus
+andyclark.xyz,emotet,2019-01-22,URLhaus
+saigonthinhvuong.net,emotet,2019-01-22,URLhaus
+greenwheelings.com,troldesh,2019-01-22,URLhaus
+demo.jrkcompany.com,emotet,2019-01-22,URLhaus
+host775544.ddns.net,njrat,2019-01-22,ScumBots
+host777555444.ddns.net,njrat,2019-01-22,ScumBots
+newnewlt.duckdns.org,njrat,2019-01-22,ScumBots
+kaiwachis.ug,stealer,2019-01-22,Benkow
+liskw.info,stealer,2019-01-22,Benkow
+kadebostany.bit,azorult,2019-01-22,Benkow
 tggrfdecfgg.ga,lokibot,2019-01-21,URLhaus
 animoderne.com,emotet,2019-01-21,URLhaus
 wijdoenbeter.be,emotet,2019-01-21,URLhaus
