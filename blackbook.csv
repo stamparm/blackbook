@@ -1,4 +1,12 @@
 Domain,Malware,Date added,Source
+wc3prince.ru,emotet,2019-01-25,URLhaus
+krupalenterprise.com,emotet,2019-01-25,URLhaus
+phongvegiaphien.com,emotet,2019-01-25,URLhaus
+pdf.sytes.net,azorult,2019-01-25,URLhaus
+13r.lg.ua,emotet,2019-01-25,URLhaus
+gmlsoftlabs.com,hawkeye,2019-01-25,URLhaus
+newv.eu,pony,2019-01-25,Benkow
+statelk.com,lokibot,2019-01-25,Benkow
 iyamahmpa.info,azorult,2019-01-25,CyberCrime
 ewfplkgb.cf,azorult,2019-01-25,CyberCrime
 lynx-energy-group.com,emotet,2019-01-25,URLhaus
