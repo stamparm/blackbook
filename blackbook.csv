@@ -1,4 +1,15 @@
 Domain,Malware,Date added,Source
+mywedphoto.ru,emotet,2019-02-01,URLhaus
+teatrul-de-poveste.ro,emotet,2019-02-01,URLhaus
+chiquigatito.com,emotet,2019-02-01,URLhaus
+rmz-anticor.ru,emotet,2019-02-01,URLhaus
+theaothundao.com,emotet,2019-02-01,URLhaus
+panditshukla.com,emotet,2019-02-01,URLhaus
+webnahal.com,emotet,2019-02-01,URLhaus
+mrb2019.linkpc.net,njrat,2019-02-01,ScumBots
+eldjawal2.ddns.net,njrat,2019-02-01,ScumBots
+kinotoday.ug,azorult,2019-02-01,Benkow
+pd2i.pw,lokibot,2019-02-01,Benkow
 offorplc.eu,pony,2019-02-01,CyberCrime
 aafiyaat.com,troldesh,2019-02-01,URLhaus
 hkoff.duckdns.org,njrat,2019-02-01,ScumBots
