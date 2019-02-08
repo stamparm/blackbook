@@ -1,4 +1,16 @@
 Domain,Malware,Date added,Source
+idigito.net,emotet,2019-02-09,URLhaus
+livingsolitude.com,emotet,2019-02-09,URLhaus
+hmrc-tax.xyz,gandcrab,2019-02-09,URLhaus
+hmrc-tax.club,gandcrab,2019-02-09,URLhaus
+cubeuser.tk,quasar,2019-02-09,URLhaus
+marocsports.ma,emotet,2019-02-09,URLhaus
+mod-presumption.000webhostapp.com,lokibot,2019-02-09,URLhaus
+kianafrooz.com,emotet,2019-02-09,URLhaus
+somethinggradient.com,emotet,2019-02-09,URLhaus
+theweb.digital,emotet,2019-02-09,URLhaus
+ukurbap.duckdns.org,nanocore,2019-02-09,ScumBots
+jocker.ddns.net,njrat,2019-02-09,ScumBots
 angelasparkles.net,emotet,2019-02-08,URLhaus
 navigatorpojizni.ru,emotet,2019-02-08,URLhaus
 squibbleslifetyle.com,emotet,2019-02-08,URLhaus
