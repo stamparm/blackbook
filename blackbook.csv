@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+cocomet-china.com,nanocore,2019-02-09,URLhaus
+napier.eu,emotet,2019-02-09,URLhaus
 idigito.net,emotet,2019-02-09,URLhaus
 livingsolitude.com,emotet,2019-02-09,URLhaus
 hmrc-tax.xyz,gandcrab,2019-02-09,URLhaus
