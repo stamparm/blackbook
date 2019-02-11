@@ -1,4 +1,13 @@
 Domain,Malware,Date added,Source
+bixtoj.gq,azorult,2019-02-11,CyberCrime
+hopi.hopto.org,emotet,2019-02-11,URLhaus
+cairnterrier.in.ua,emotet,2019-02-11,URLhaus
+geepaulcast.com,tesla,2019-02-11,URLhaus
+proteger.at,emotet,2019-02-11,URLhaus
+carimbosrapidos.com.br,nanocore,2019-02-11,URLhaus
+google1997.hopto.org,njrat,2019-02-11,ScumBots
+faysal55.ddns.net,njrat,2019-02-11,ScumBots
+attackforyou.xyz,diamondfox,2019-02-11,ScumBots
 aerveo.com,remcos,2019-02-11,URLhaus
 plugelectro4you.com,emotet,2019-02-11,URLhaus
 users.tpg.com.au,danabot,2019-02-11,URLhaus
