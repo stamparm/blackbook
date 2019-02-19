@@ -1,4 +1,13 @@
 Domain,Malware,Date added,Source
+crestailiaca.com,emotet,2019-02-19,URLhaus
+iqhomeyapi.com,emotet,2019-02-19,URLhaus
+hostbit.tech,emotet,2019-02-19,URLhaus
+voip96.ru,emotet,2019-02-19,URLhaus
+whiskyshipper.com,emotet,2019-02-19,URLhaus
+kundenwelt.com,retefe,2019-02-19,URLhaus
+fahreddin.info,emotet,2019-02-19,URLhaus
+ouiyg.mefound.com,njrat,2019-02-19,ScumBots
+brokenskull2.xyz,lokibot,2019-02-19,Benkow
 rudential.com.watchdogdns.duckdns.org,formbook,2019-02-19,URLhaus
 liprudential.com.watchdogdns.duckdns.org,formbook,2019-02-19,URLhaus
 tatgalloprecast.comsketchwefair-watduoliprudential.com.watchdogdns.duckdns.org,formbook,2019-02-19,URLhaus
