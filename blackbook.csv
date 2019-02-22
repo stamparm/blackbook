@@ -1,4 +1,14 @@
 Domain,Malware,Date added,Source
+au.big.goodtimenews.org,danabot,2019-02-22,URLhaus
+link-4.eu,emotet,2019-02-22,URLhaus
+cetcf.cn,emotet,2019-02-22,URLhaus
+smlex.com.my,emotet,2019-02-22,URLhaus
+khachsananthinhphat.com,emotet,2019-02-22,URLhaus
+bondibackpackersnhatrang.com,emotet,2019-02-22,URLhaus
+ammedieval.org,emotet,2019-02-22,URLhaus
+armand-productions.com,emotet,2019-02-22,URLhaus
+ftpcm.com,emotet,2019-02-22,URLhaus
+bandyban.com,diamondfox,2019-02-22,Benkow
 jason-portilla.com,emotet,2019-02-22,URLhaus
 hellojarvis.co,emotet,2019-02-22,URLhaus
 kjtg.info,emotet,2019-02-22,URLhaus
