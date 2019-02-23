@@ -1,4 +1,17 @@
 Domain,Malware,Date added,Source
+demeidenchocolaensnoep.nl,emotet,2019-02-23,URLhaus
+oesfomento.com.br,emotet,2019-02-23,URLhaus
+dafia.org,emotet,2019-02-23,URLhaus
+mimreklam.site,emotet,2019-02-23,URLhaus
+wog92bqzqg1m9j4i3.website,gandcrab,2019-02-23,URLhaus
+optimus1.ddns.net,njrat,2019-02-23,ScumBots
+ippoofer.ddns.net,njrat,2019-02-23,ScumBots
+loai839.hopto.org,njrat,2019-02-23,ScumBots
+joker1.linkpc.net,njrat,2019-02-23,ScumBots
+bounceme.bounceme.net,njrat,2019-02-23,ScumBots
+updatesysteml.ddns.net,njrat,2019-02-23,ScumBots
+testtest.in.8866.org,njrat,2019-02-23,ScumBots
+nuttentool.ddns.net,njrat,2019-02-23,ScumBots
 globalbank.us,formbook,2019-02-23,URLhaus
 pi-labs.tech,emotet,2019-02-23,URLhaus
 td-electronic.net,emotet,2019-02-23,URLhaus
