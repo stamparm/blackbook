@@ -1,4 +1,7 @@
 Domain,Malware,Date added,Source
+myfanout.com,emotet,2019-03-20,URLhaus
+eduardovilacadesigner.com,troldesh,2019-03-20,URLhaus
+nosportugal.com,troldesh,2019-03-20,URLhaus
 myaupairing.org,troldesh,2019-03-20,URLhaus
 fatrolfordpd.com,emotet,2019-03-20,URLhaus
 sovecos.com,emotet,2019-03-20,URLhaus
