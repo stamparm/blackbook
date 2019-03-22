@@ -1,4 +1,10 @@
 Domain,Malware,Date added,Source
+loweralabamagolf.com,emotet,2019-03-22,URLhaus
+franosbarbershop.com,emotet,2019-03-22,URLhaus
+arexcargo.com,emotet,2019-03-22,URLhaus
+artmikhalchyk.com,emotet,2019-03-22,URLhaus
+br3sa.sytes.net,njrat,2019-03-22,ScumBots
+cyber-ghost.ddns.net,njrat,2019-03-22,ScumBots
 acdswd.cn,emotet,2019-03-22,URLhaus
 nanocoretesting.ddns.net,nanocore,2019-03-22,ScumBots
 meher.ddns.net,njrat,2019-03-22,ScumBots
