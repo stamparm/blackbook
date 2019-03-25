@@ -1,4 +1,11 @@
 Domain,Malware,Date added,Source
+breakin.cf,pony,2019-03-26,URLhaus
+lifestylescape.com,emotet,2019-03-26,URLhaus
+shoparsi.com,emotet,2019-03-26,URLhaus
+91fhb.com,emotet,2019-03-26,URLhaus
+form8.sadek-webdesigner.com,emotet,2019-03-26,URLhaus
+iqbaldbn.me,emotet,2019-03-26,URLhaus
+belabargelro.com,imminentrat,2019-03-26,URLhaus
 zabenkot.top,kpot,2019-03-25,CyberCrime
 funmart.ml,emotet,2019-03-25,URLhaus
 databasetm.ru,emotet,2019-03-25,URLhaus
