@@ -1,4 +1,7 @@
 Domain,Malware,Date added,Source
+stelliers.cn,emotet,2019-04-05,URLhaus
+timehalik.tk,emotet,2019-04-05,URLhaus
+evra0o.myftp.biz,njrat,2019-04-05,ScumBots
 hii4keenan.com,gozi,2019-04-04,URLhaus
 igadgetpro.com,azorult,2019-04-04,URLhaus
 sys32.publicvm.com,revenge,2019-04-04,ScumBots
