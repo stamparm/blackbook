@@ -1,4 +1,9 @@
 Domain,Malware,Date added,Source
+shipservice-hr.market,gozi,2019-04-06,URLhaus
+milor.nl,emotet,2019-04-06,URLhaus
+winddns.hopto.org,njrat,2019-04-06,ScumBots
+alsbawi.hopto.org,njrat,2019-04-06,ScumBots
+cubaworts.gq,azorult,2019-04-06,Benkow
 testers.ddns.net,nanocore,2019-04-06,ScumBots
 nz.com.ar,emotet,2019-04-06,URLhaus
 janus.com.ve,emotet,2019-04-06,URLhaus
