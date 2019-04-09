@@ -1,4 +1,9 @@
 Domain,Malware,Date added,Source
+vman23.com,pony,2019-04-09,CyberCrime
+altop10.com,emotet,2019-04-09,URLhaus
+s1591e46.xyz,ursnif,2019-04-09,URLhaus
+xu-4.ddns.net,njrat,2019-04-09,ScumBots
+iem-send.com,diamondfox,2019-04-09,ScumBots
 rosario-datageeks.com.ar,emotet,2019-04-09,URLhaus
 nomore-nomoney.com,emotet,2019-04-09,URLhaus
 safetie.matthewforzan.com.au,emotet,2019-04-09,URLhaus
