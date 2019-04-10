@@ -1,4 +1,10 @@
 Domain,Malware,Date added,Source
+osbios.net,njrat,2019-04-10,URLhaus
+quad-pixel.com,troldesh,2019-04-10,URLhaus
+kosahafager.com,formbook,2019-04-10,URLhaus
+namellus.com,emotet,2019-04-10,URLhaus
+caferestaurantnador.com,emotet,2019-04-10,URLhaus
+duckapp.duckdns.org,revenge,2019-04-10,ScumBots
 carnagoexpress.com,troldesh,2019-04-10,URLhaus
 10sells.com,emotet,2019-04-10,URLhaus
 bryanlowe.co.nz,emotet,2019-04-10,URLhaus
