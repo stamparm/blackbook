@@ -1,4 +1,11 @@
 Domain,Malware,Date added,Source
+bitsmash.ovh,emotet,2019-04-13,URLhaus
+victimsawareness.net,emotet,2019-04-13,URLhaus
+tajingredientes.com,emotet,2019-04-13,URLhaus
+admin.hopehorseback.org,emotet,2019-04-13,URLhaus
+drnoce.us,emotet,2019-04-13,URLhaus
+astroyogi.app,emotet,2019-04-13,URLhaus
+levantain.ddns.net,njrat,2019-04-13,ScumBots
 skdaya.net,nanocore,2019-04-13,URLhaus
 kuhncoppersolutions.com,emotet,2019-04-13,URLhaus
 icserie.org,emotet,2019-04-13,URLhaus
