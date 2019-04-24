@@ -1,4 +1,11 @@
 Domain,Malware,Date added,Source
+chinamyart.com,emotet,2019-04-24,URLhaus
+ieexploreinternet.duckdns.org,nanocore,2019-04-24,URLhaus
+urogyn-workshops.com,emotet,2019-04-24,URLhaus
+bbkac.com,formbook,2019-04-24,URLhaus
+90551.prohoster.biz,kryptonstealer,2019-04-24,Benkow
+noda-8879.cf,isrstealer,2019-04-24,Benkow
+santaluisa.top,megumin,2019-04-24,Benkow
 cameranguyendat.com,troldesh,2019-04-24,URLhaus
 grosircelanaanak.net,emotet,2019-04-24,URLhaus
 exe93.ddns.net,njrat,2019-04-24,ScumBots
