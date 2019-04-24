@@ -1,4 +1,11 @@
 Domain,Malware,Date added,Source
+gatewaylogsitics.com,pony,2019-04-24,URLhaus
+jamessilva.com.br,emotet,2019-04-24,URLhaus
+rubricontrol.com,emotet,2019-04-24,URLhaus
+continentalleap.com,emotet,2019-04-24,URLhaus
+peruintitravel.com.pe,tesla,2019-04-24,URLhaus
+johnnobab.com,azorult,2019-04-24,URLhaus
+hardyqeeens.com,stealthworker,2019-04-24,Benkow
 chinamyart.com,emotet,2019-04-24,URLhaus
 ieexploreinternet.duckdns.org,nanocore,2019-04-24,URLhaus
 urogyn-workshops.com,emotet,2019-04-24,URLhaus
