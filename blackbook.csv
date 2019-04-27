@@ -1,4 +1,6 @@
 Domain,Malware,Date added,Source
+altriga.com,emotet,2019-04-27,URLhaus
+satellite-5g.ddns.net,cybergate,2019-04-27,ScumBots
 wandiwallstiker.com,trickbot,2019-04-27,URLhaus
 608design.com,emotet,2019-04-27,URLhaus
 beutify.com,emotet,2019-04-27,URLhaus
