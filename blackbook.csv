@@ -1,4 +1,12 @@
 Domain,Malware,Date added,Source
+alasisca.id,emotet,2019-04-29,URLhaus
+h-drums.cf,lokibot,2019-04-29,URLhaus
+anticcolonial.cf,lokibot,2019-04-29,URLhaus
+adsvive.com,emotet,2019-04-29,URLhaus
+index30.com,emotet,2019-04-29,URLhaus
+utmank.bid,formbook,2019-04-29,URLhaus
+sikipon32.ddns.net,njrat,2019-04-29,ScumBots
+internet-explorer-background.duckdns.org,njrat,2019-04-29,ScumBots
 millanplaners.duckdns.org,azorult,2019-04-29,URLhaus
 observatoriodagastronomia.com.br,emotet,2019-04-29,URLhaus
 panelli.kz,emotet,2019-04-29,URLhaus
