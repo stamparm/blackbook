@@ -1,4 +1,16 @@
 Domain,Malware,Date added,Source
+auraokg.com,emotet,2019-05-01,URLhaus
+icobweb.com,emotet,2019-05-01,URLhaus
+nobibiusa.com,emotet,2019-05-01,URLhaus
+sftereza.ro,emotet,2019-05-01,URLhaus
+dogmates.club,emotet,2019-05-01,URLhaus
+gkmfx.net,emotet,2019-05-01,URLhaus
+demoo.tk,emotet,2019-05-01,URLhaus
+microsoftoutlook.duckdns.org,nanocore,2019-05-01,ScumBots
+67ytfffyt.ddns.net,njrat,2019-05-01,ScumBots
+hecka.myddns.me,njrat,2019-05-01,ScumBots
+s0ft3r.ru,diamondfox,2019-05-01,ScumBots
+datpapernl.com,smokeloader,2019-05-01,Benkow
 lawyerwangu.com,emotet,2019-04-30,URLhaus
 nespressoreview.com,emotet,2019-04-30,URLhaus
 gscrow.com,emotet,2019-04-30,URLhaus
