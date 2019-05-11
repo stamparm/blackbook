@@ -1,4 +1,8 @@
 Domain,Malware,Date added,Source
+phumyhunggiatot.com,emotet,2019-05-11,URLhaus
+oguzhancicek.xyz,emotet,2019-05-11,URLhaus
+zooz.hopto.org,njrat,2019-05-11,ScumBots
+labas.ddns.net,njrat,2019-05-11,ScumBots
 mitsubishi-3s.com,emotet,2019-05-10,URLhaus
 miandevelopers.com,emotet,2019-05-10,URLhaus
 wihanstudio.com,emotet,2019-05-10,URLhaus
