@@ -1,4 +1,11 @@
 Domain,Malware,Date added,Source
+cebumeditec.com,emotet,2019-05-26,URLhaus
+blschain.com,emotet,2019-05-26,URLhaus
+hirawin.com,emotet,2019-05-26,URLhaus
+cicimum.com,emotet,2019-05-26,URLhaus
+tour4dubai.com,emotet,2019-05-26,URLhaus
+sirchocolate.ddns.net,nanocore,2019-05-26,ScumBots
+frowing.ddns.net,nanocore,2019-05-26,ScumBots
 almashriqbh.com,gozi,2019-05-25,URLhaus
 tafa.pxlcorp.com,emotet,2019-05-25,URLhaus
 advico-si.co,nanocore,2019-05-25,URLhaus
