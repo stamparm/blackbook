@@ -6,8 +6,4 @@
 
 ![Example](https://i.imgur.com/FN8r3um.png)
 
-Up-to-date list of domains can be found [here](blackbook.csv).
-
-Note: If you just need a (newline delimited) domain list you can run:
-
-`curl https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.csv 2>/dev/null | cut -d ',' -f 1 | tail -n +2`
+Up-to-date detailed CSV list of domains can be found [here](blackbook.csv), while the raw TXT version can be found [here](https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.csv).
