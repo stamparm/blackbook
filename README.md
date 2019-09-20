@@ -6,4 +6,4 @@
 
 ![Example](https://i.imgur.com/FN8r3um.png)
 
-Up-to-date detailed CSV list of domains can be found [here](blackbook.csv), while the raw TXT version can be found [here](https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.csv).
+Up-to-date detailed CSV list of domains can be found [here](blackbook.csv), while the raw TXT version can be found [here](https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt).
