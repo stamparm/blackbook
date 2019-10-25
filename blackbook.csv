@@ -1,4 +1,9 @@
 Domain,Malware,Date added,Source
+borsontech.com,emotet,2019-10-25,URLhaus
+hafsayasmin.000webhostapp.com,emotet,2019-10-25,URLhaus
+gamerusa.duckdns.org,atraps,2019-10-25,ScumBots
+bood.ddns.net,njrat,2019-10-25,ScumBots
+teamwork2019.ddns.net,njrat,2019-10-25,ScumBots
 freebitcoin-bot.ml,predatorthethief,2019-10-24,CyberCrime
 unitedctc.com,emotet,2019-10-24,URLhaus
 datadoc.eu,emotet,2019-10-24,URLhaus
