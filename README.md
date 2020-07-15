@@ -6,4 +6,4 @@
 
 ![Example](https://i.imgur.com/FN8r3um.png)
 
-Up-to-date detailed CSV list of domains can be found [here](denybook.csv), while the raw TXT version can be found [here](https://raw.githubusercontent.com/spacial/DenyBook/master/denybook.txt).
+Up-to-date detailed CSV list of domains can be found [here](denybook.csv), while the raw TXT version can be found [here](https://raw.githubusercontent.com/stamparm/DenyBook/master/denybook.txt).
