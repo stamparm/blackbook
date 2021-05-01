@@ -1,4 +1,12 @@
 Domain,Malware,Date added,Source
+mdtudymicrosoftfstix.dns.army,tesla,2021-05-01,URLhaus
+f0533726.xsph.ru,collector,2021-05-01,ViriBack
+f0537501.xsph.ru,collector,2021-05-01,ViriBack
+f0537341.xsph.ru,collector,2021-05-01,ViriBack
+f0537792.xsph.ru,collector,2021-05-01,ViriBack
+f0536692.xsph.ru,collector,2021-05-01,ViriBack
+f0531750.xsph.ru,collector,2021-05-01,ViriBack
+f0537624.xsph.ru,collector,2021-05-01,ViriBack
 macakslcaq.ug,remcos,2021-05-01,URLhaus
 vespang.ga,tesla,2021-05-01,URLhaus
 dunlopmill.org,lokibot,2021-05-01,ViriBack
