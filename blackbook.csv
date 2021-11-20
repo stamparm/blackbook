@@ -1,4 +1,7 @@
 Domain,Malware,Date added,Source
+riven3.online,emotet,2021-11-20,URLhaus
+toupai80.com,emotet,2021-11-20,URLhaus
+merthamurc.duckdns.org,asyncrat,2021-11-20,ScumBots
 huskysb.com,emotet,2021-11-19,URLhaus
 ridcyf.com,emotet,2021-11-19,URLhaus
 ckfoods.net,emotet,2021-11-19,URLhaus
