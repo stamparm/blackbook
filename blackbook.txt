@@ -1,3 +1,4 @@
+azure-updatedb.at
 openchild.link
 qualitywinter.link
 sleepyreturn.link
